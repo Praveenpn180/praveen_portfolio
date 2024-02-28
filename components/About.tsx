@@ -16,7 +16,7 @@ const About: React.FC<{}> = () => {
   As a passionate software engineer, I find joy in the harmonious interplay between logic and creativity. Currently engrossed in the vibrant realm of WebHR, my expertise revolves around the MERN stack, where I effortlessly merge technology with innovation.
   <br />
   <br />
-  With a fervent desire to craft elegant solutions, I navigate the ever-evolving landscape of software development. My journey involves transforming ideas into code, building seamless user experiences, and consistently pushing the boundaries of what's possible.
+  With a fervent desire to craft elegant solutions, I navigate the ever-evolving landscape of software development. My journey involves transforming ideas into code, building seamless user experiences, and consistently pushing the boundaries of what&apos;s possible.
 </p>
 
       </div>

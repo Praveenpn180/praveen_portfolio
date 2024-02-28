@@ -19,7 +19,7 @@ const Experience: React.FC<{}> = () => {
 
 <p className="text-gray-300 pt-5">
   <br />
-  - Led the development of the company's static website [kkscapitals.com] using Next.js, focusing on SEO and performance optimization.
+  - Led the development of the company&apos;s static website [kkscapitals.com] using Next.js, focusing on SEO and performance optimization.
   <br />
   - Designed and implemented a subscription-based investment advising web app in React.js, Node.js, and MongoDB.
   <br />

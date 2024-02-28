@@ -23,7 +23,7 @@ const Banner: React.FC<{}> = () => {
         <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
         Debugging is my cardio.{" "}
           <span className="text-transparent font-semibold  bg-clip-text bg-gradient-to-r from-purple-500 to-orange-400">
-          Who needs a gym?" 
+          Who needs a gym?&quot; 
           </span>{" "}
           💪👩‍💻
         </p>
